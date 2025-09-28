@@ -1,0 +1,6 @@
+{
+    "files.autoSaveWhenNoErrors": false,
+    "files.refactoring.autoSave": false,
+    "codeswing.autoSave": true,
+    "files.autoSaveDelay": 1000
+}
